@@ -2,6 +2,8 @@
 
 An interactive Drum Kit web application built with **HTML**, **CSS**, and **JavaScript**. Play different drum sounds with your mouse or keyboard and enjoy responsive visual animations.
 
+## 🎸 [Play Now](https://gurveersingh8806.github.io/Drum-Kit/)
+
 ## Features
 
 - **Dual Input Methods** - Play sounds by clicking buttons or pressing keyboard keys (W, A, S, D, J, K, L)
